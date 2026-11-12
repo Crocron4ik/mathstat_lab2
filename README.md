@@ -1,0 +1,1 @@
+# mathstat_lab2
